@@ -8,7 +8,7 @@ The [DH2022 branch](https://github.com/SimoneRebora/Traven_stylometry/tree/DH202
 
 ## Instructions
 
-Run the *bash_imposters_number_parallel.sh* file, which will run all R scripts in a sequence. Scripts are designed for parallel processing, to accelerate computation speed.  
+Run the *bash_imposters_parallel.sh* file, which will run all R scripts in a sequence. Scripts are designed for parallel processing, to accelerate computation speed.  
 
 ### Features
 
@@ -39,4 +39,4 @@ Texts to be analysed are in the *corpus* folder:
 ## Requirements
 
 R packages: stylo, tidyverse, and class. Run the **Requirements.R** script to install them.  
-The bash script should run via command line on Unix-like systems, via: `bash bash_imposters_number_parallel.sh`.
+The bash script should run via command line on Unix-like systems, via: `bash bash_imposters_parallel.sh`.
