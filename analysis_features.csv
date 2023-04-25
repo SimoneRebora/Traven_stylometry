@@ -1,8 +1,9 @@
 feature,value
 n_cores,6
-n_best_imposters,5 10 15 20 25 30 35 40
-MFW_series,50 100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000
-imposters_source,zeitungen kolimo
-culling,0 25 50 75 100
-validation_rounds,20
+n_best_imposters,2 4 8 16 32
+n_development_authors,4
+MFU_series,100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000
+culling,0 50 100
+validation_rounds,50
 distances,dist.manhattan dist.euclidean dist.delta dist.eder dist.canberra dist.wurzburg dist.argamon dist.cosine dist.entropy dist.minmaxfast dist.simple
+unit,4_characters
