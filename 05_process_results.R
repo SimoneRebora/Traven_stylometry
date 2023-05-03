@@ -240,7 +240,7 @@ methods_df$lr_red <- methods_df$lr_red * methods_df$efficiency
 # calculate final proportions and save them to results file
 
 sink(file = "Results.txt", append = T)
-cat("\n\n# KNN\n")
+cat("\n\n# LogReg\n")
 cat("\nConfirmed ", sum(methods_df$lr_green) / sum(c(methods_df$lr_green, methods_df$lr_red)))
 cat("\nNegated ", sum(methods_df$lr_red) / sum(c(methods_df$lr_green, methods_df$lr_red)))
 sink()
