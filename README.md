@@ -3,8 +3,8 @@
 Scripts and corpora for the authorship attribution of B. Traven's works, using the method of the "impostors".
 
 ## Structure
-The main branch of the repository contains materials for the paper *Are Ret Marut and B. Traven the same person? Fine tuning the impostors method*, presented at the [DH2023 Conference](https://dh2023.adho.org/).  
-The [DH2022 branch](https://github.com/SimoneRebora/Traven_stylometry/tree/DH2022) contains materials for the paper *Traven between the impostors. Preliminary considerations on an authorship verification case*, presented at the [DH2022 Conference](https://dh2022.adho.org/).  
+The main branch of the repository contains materials for the paper *Are Ret Marut and B. Traven the same person? Fine tuning the impostors method*, presented at the [DH2023 Conference](https://dh2023.adho.org/) ([Paper](https://zenodo.org/record/7961822) | [Slides](https://docs.google.com/presentation/d/1yvF_JrCwsM0mzdQ7sLknZO9oxqr8d3ueFpgO0YHKI-0/edit?usp=sharing)).  
+The [DH2022 branch](https://github.com/SimoneRebora/Traven_stylometry/tree/DH2022) contains materials for the paper *Traven between the impostors. Preliminary considerations on an authorship verification case*, presented at the [DH2022 Conference](https://dh2022.adho.org/) ([Paper](https://dh2022.dhii.asia/dh2022bookofabsts.pdf#page=546)).  
 
 ## Instructions
 
